@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NilChoudhury
+- 👋 Hi, I’m @NilotpalChoudhury
 - 👀 I’m interested in software dev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
