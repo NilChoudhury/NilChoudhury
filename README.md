@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NilotpalChoudhury
 - 👀 I’m interested in software dev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
